@@ -1,7 +1,10 @@
 # Ignore everything
-*
+/*
+
+**/.DS_Store
+**.log
 
 # But not these files...
 !.gitignore
 !README.md
-!./assignments/*
+!assignments/
