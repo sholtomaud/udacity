@@ -8,3 +8,5 @@
 !.gitignore
 !README.md
 !*.ipynb
+!*.html
+!*.py
